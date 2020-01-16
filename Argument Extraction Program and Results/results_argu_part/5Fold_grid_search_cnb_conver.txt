@@ -1,0 +1,4 @@
+Performing grid search...
+pipeline:feature clf
+parameters:{'clf__alpha': (0.01, 0.1, 1, 10)}
+done in 1.917s

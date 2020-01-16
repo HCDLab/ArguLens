@@ -1,0 +1,12 @@
+.DS_Store
+/backup
+/__pycache__
+commonutil.py
+liblinear.py
+liblinearutil.py
+Makefile
+README_liblinear
+.ipynb_checkpoints/
+stanford-corenlp-full-2018-10-05/
+obsolete_ignore/
+new_results*/
