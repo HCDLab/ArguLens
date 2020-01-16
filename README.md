@@ -1,5 +1,5 @@
 # ArguLens
-Codebook, data, and code for ArguLens, , a conceptual framework and automated technique leveraging an argumentation model to support effective understanding and consolidation of community opinions.
+Codebook, data, and code for ArguLens, a conceptual framework and automated technique leveraging an argumentation model to support effective understanding and consolidation of community opinions.
 
 - The "Codebook.xlsx" file is the codebook we used during the argumentation analysis study.
 
